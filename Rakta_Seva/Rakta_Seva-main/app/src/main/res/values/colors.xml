@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_red">#CC3344</color>
+    <color name="primary_red_dark">#A62636</color>
+    <color name="background_light_red">#FFF0F1</color>
+    <color name="text_gray">#666666</color>
+    <color name="divider_gray">#EEEEEE</color>
+    <color name="success_green">#2E7D32</color>
+    <color name="urgency_critical">#CC3344</color>
+    <color name="urgency_high">#E67E22</color>
+    <color name="urgency_normal">#7F8C8D</color>
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Rakta-Seva Connect</string>
+    <string name="app_subtitle">A life-saving bridge for the Golden Hour.</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="sign_in_subtitle">Sign in to respond to emergencies near you.</string>
+    <string name="label_email">EMAIL</string>
+    <string name="hint_email">admin@raktaseva.in</string>
+    <string name="label_password">PASSWORD</string>
+    <string name="hint_password">........</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_create_donor_account">Create a Donor Account</string>
+    <string name="cd_logo">App Logo</string>
+
+    <string name="title_become_donor">Become a Donor</string>
+    <string name="subtitle_become_donor">One pint can save up to three lives.</string>
+    <string name="label_full_name">FULL NAME *</string>
+    <string name="hint_full_name">Your full name</string>
+    <string name="label_email_required">EMAIL *</string>
+    <string name="hint_email_register">you@example.com</string>
+    <string name="label_phone_required">PHONE *</string>
+    <string name="hint_phone">+91 9XXXXXXXXX</string>
+    <string name="label_password_required">PASSWORD *</string>
+    <string name="hint_password_register">At least 6 characters</string>
+    <string name="label_blood_group_required">BLOOD GROUP *</string>
+    <string name="label_location">LOCATION</string>
+    <string name="btn_use_current_location">Use my current location</string>
+    <string name="hint_city_taluka">City / Taluka (optional)</string>
+    <string name="btn_join_donor">Join as a Donor</string>
+
+    <string name="bg_aplus">A+</string>
+    <string name="bg_aminus">A-</string>
+    <string name="bg_bplus">B+</string>
+    <string name="bg_bminus">B-</string>
+    <string name="bg_abplus">AB+</string>
+    <string name="bg_abminus">AB-</string>
+    <string name="bg_oplus">O+</string>
+    <string name="bg_ominus">O-</string>
+
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_request">Request</string>
+    <string name="nav_donors">Donors</string>
+    <string name="nav_profile">Profile</string>
+</resources>
